@@ -54,3 +54,26 @@ iframe{
   border-color: rgba(0, 0, 0, 0.514);
   border-radius: 100px;
 }
+
+table {
+  margin: 80px;
+  text-align: center;
+  border: 10px solid;
+  border-color: rgba(104, 103, 103, 0.514);
+}
+
+thead {
+  background-color: rgb(95, 95, 95);
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  color: rgb(145, 186, 248);
+}
+
+tbody {
+  background-color: rgb(110, 110, 110);
+  color: rgb(188, 225, 236);
+}
+
+a {
+  color: rgb(188, 225, 236);
+}
